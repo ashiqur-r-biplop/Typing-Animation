@@ -1,5 +1,8 @@
-#text-container {
-    font-size: 24px;
-    font-family: Arial, sans-serif;
-    white-space: pre-wrap;
-  }
+.text-container {
+  font-size: 34px;
+  font-family: Arial, sans-serif;
+  white-space: pre-wrap;
+  text-transform: uppercase;
+  font-weight: 800;
+
+}
